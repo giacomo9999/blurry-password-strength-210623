@@ -1,0 +1,1 @@
+Input box that displays password strength based on blurriness of background image.  23 Jun 2021  
